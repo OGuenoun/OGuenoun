@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Omar Guenoun, a Data Science engineering student at Grenoble INP–Phelma with a strong foundation in machine learning, signal processing, and mathematical modeling. I’ve gained hands-on research experience at the University of Sherbrooke, where I worked on loss-function optimization and pretraining language models on HPC clusters.<br><br>I enjoy building practical and research-oriented ML projects, from multiclass ROC visualization tools in R to time-series forecasting models and even compiler components. I’m passionate about optimization, generative models, and turning complex problems into elegant, efficient solutions.
+I’m Omar Guenoun, a Data Science and Financial engineering student at Paris Dauphine university with a strong foundation in machine learning, signal processing, and mathematical modeling. I’ve gained hands-on research experience at the University of Sherbrooke, where I worked on loss-function optimization and pretraining language models on HPC clusters.<br><br>I enjoy building practical and research-oriented ML projects, from multiclass ROC visualization tools in R to time-series forecasting models and even compiler components. I’m passionate about optimization, generative models, and turning complex problems into elegant, efficient solutions.
 
 
 ## 🌐 Socials:
